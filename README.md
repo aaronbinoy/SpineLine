@@ -19,6 +19,10 @@ ESP32 + MPU6050 accelerometer with web dashboard & Firebase cloud sync
 
 ## 📊 Live Dashboard Preview
 
+
+Uploading WhatsApp Video 2026-01-18 at 1.42.08 PM.mp4…
+
+
 ## 🛠 Hardware Setup
 
 ![WhatsApp Image 2026-01-18 at 10 30 03 AM](https://github.com/user-attachments/assets/ea34514a-d988-4f24-8da2-4ac654d1563a)
