@@ -47,9 +47,9 @@ Libraries:
 
 └── Wire (built-in)
 
-Open Dashboard: http://192.168.1.100
+**Open Dashboard:** http://192.168.1.100
 
-📈 Performance Metrics
+##📈 Performance Metrics
 Straight %: (straight_readings / total_readings) × 100
 
 Ratings:
@@ -60,14 +60,14 @@ Ratings:
 
 🔴 TERRIBLE: <50%
 
-📱 Mobile Access
+## 📱 Mobile Access
 Connect phone to same WiFi
 
 Open browser: http://192.168.1.100
 
 Add to home screen for app-like experience
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
  BLE mobile app
 
  Machine learning posture model
@@ -78,7 +78,7 @@ Add to home screen for app-like experience
 
  Email/SMS alerts
 
- Contributers
+ ## Contributers
  - Pooja S Nair
  - Krishna Jyothy J S
  - Aaron Binoy
